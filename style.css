@@ -1,0 +1,112 @@
+body
+    {
+    background-color:rgb(24,24,24);
+    
+    background-image:url(images/cyberpunk-20.jpg);
+	background-repeat:no-repeat;
+
+    background-attachment:fixed;
+
+    background-position:center;
+	
+    background-size:90%;
+    }
+#logotip{
+	background-color:white;
+	color:black;
+	border-radius:100%;
+	opacity:0.8;
+	width:700px;
+	height:300px;
+	margin:0 auto;
+	text-align: center;
+	font-size:150px;
+	
+	
+}
+
+#logotip:hover{
+	
+	opacity: 1;
+}
+
+#stroki{
+	background-color:white;
+	color:black;
+	border-radius:100px;
+	opacity:0.8;
+	width:700px;
+	height:550px;
+	margin:0 auto;
+	text-align: center;
+	font-size:50px;
+	position:absolute;
+    left:575px;
+    top:349px;
+    z-index:-1;
+}
+
+#stroki:hover{
+	
+	opacity:1;
+}
+
+#Email{
+	background-color:white;
+	color:black;
+	border-radius:100px;
+	width:650px;
+	height:35px;
+	margin:0 auto;
+	text-align: center;
+	font-size:30px;
+	position:absolute;
+    left:600px;
+    top:400px;
+    z-index:-1;
+}
+
+#pasword{
+	background-color:white;
+	color:black;
+	border-radius:100px;
+	width:650px;
+	height:35px;
+	margin:0 auto;
+	text-align: center;
+	font-size:30px;
+	position:absolute;
+    left:600px;
+    top:500px;
+    z-index:-1;
+	
+}
+
+#Confirm-password{
+	background-color:white;
+	color:black;
+	border-radius:100px;
+	width:650px;
+	height:35px;
+	margin:0 auto;
+	text-align: center;
+	font-size:30px;
+	position:absolute;
+    left:600px;
+    top:600px;
+    z-index:-1;
+	
+}
+
+#login{
+  font-size: 32px;
+  font-family: "Myriad Pro";
+  line-height: 1.2;
+  text-align: left;
+  /overflow: scroll;
+  position: absolute;
+  left: 868.892px;
+  top: 713.954px;
+  z-index: 1;
+
+}
